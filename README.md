@@ -8,3 +8,10 @@ This repository contains a simple console application for recommending anime bas
 - **Episode Preferences:** Specify preferences for the number of episodes for TV series.
 - **Genre Selection:** Select the preferred mood or genre for anime recommendations.
 - **Results Count:** Choose the number of anime results you want to see.
+
+## Usage
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/anime-recommendation.git
